@@ -34,7 +34,7 @@ html{
 }
 /* 加一个呼吸效果 */
 #code{
-animation: breath 0.5s infinite alternate-reverse;
+animation: pulse 5s infinite;
 }
 
 /* 不玩了，我来介绍一下我自己吧 
